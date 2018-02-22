@@ -1,11 +1,10 @@
 header{
     background-color: #ebebeb;
     width: 960px;
-    height: 70px;
+    height: 50px;
     text-align: center;
-    line-height: 70px;
     position: relative;
-    margin-top: 10px;
+    top: 5px;
     left: 120px;
 }
 
@@ -15,7 +14,6 @@ body{
     background-color: #777777;
     width: 960px;
     text-align: center;
-    
     
 }
 
@@ -29,8 +27,8 @@ nav {
 }
 section{
     background-color: #ebebeb;
-    width: 465px;
-    height: 500px;
+    width: 495px;
+    height: 180px;
     position: relative;
     left: 120px;
     top: 35px;
@@ -48,19 +46,16 @@ article{
 aside{
     background-color: #ebebeb;
     position: relative;
-    height: 500px;
-    width: 465px;
+    height: 180px;
+    width: 495px;
     left: 585px;
-    bottom: 465px;
-    margin-left: 30px;
+    bottom: 145px;
 }
 
-footer {
+footer{
     background-color: #ebebeb;
-    width: 960px;
-    margin: auto;
-    line-height: 70px;
-    text-align: center;
     position: relative;
+    top: 30px;
     left: 120px;
+
 }
